@@ -1,5 +1,5 @@
 services:
-  duiong:
+  okping:
     build: .
     shm_size: 2.6gb
     ports:
